@@ -25,7 +25,7 @@ def main():
 	print "                    |"+m+"+H+H+H+"+r+"|"
 	print "                    \       /"
 	print "                     ^-----^"
-	print " }---------"+m+"+="+r+"{ Coded by Ms.ambari }"+m+"=+"+r+"---------{ \n"
+	print " }---------"+m+"+="+r+"{ Coded by FR13NDS }"+m+"=+"+r+"---------{ \n"
 	print r+"["+h+"1"+r+"] http header information"
 	print r+"["+h+"2"+r+"] admin panel finder"
 	print r+"["+h+"3"+r+"] shell backdoor scanner"
