@@ -34,7 +34,7 @@ def main():
 	print r+"["+h+"6"+r+"] facebook auto update status"
 	print r+"["+h+"x"+r+"] exit this tool\n"
 	try:
-		snm = x(box("+",h)+"beyawak [1/6] > ")
+		snm = x(box("+",h)+"beyawak [1/6] pilih > ")
 		if snm == '1':site_a = x(box("+",h)+"site > "); hthead(site_a); main_menu()
 		elif snm == '2':site_b = x(box("+",h)+"site > "); adm_finder(site_b); main_menu()
 		elif snm == '3':site_c = x(box("+",h)+"site > "); adm_finder(site_c); main_menu()
